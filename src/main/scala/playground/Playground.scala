@@ -1,6 +1,6 @@
 package playground
 
-class Playground {
+object Playground {
   def main(args: Array[String]): Unit = {
     println("Scala baby!")
   }
